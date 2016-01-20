@@ -1,0 +1,14 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.pydevproject
+.DS_Store
+.project
+bin/
+tmp/
+*.db
+db/
+*.tmp
+.classpath
+.settings/
+.loadpath
